@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=INKmin9&theme=neon&show_icons=true)
 <a href="https://github.com/INKmin9"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=INKmin9&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="INK's github stats" /></a>
 <a href="https://github.com/INKmin9"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INKmin9&layout=compact&theme=nord&hide_border=true" /></a> 
 
