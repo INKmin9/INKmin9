@@ -30,3 +30,9 @@
 <a href="https://github.com/INKmin9"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=INKmin9&show_icons=true&include_all_commits=true&theme=outrun&hide_border=true" alt="INK's github stats" /></a>
 <a href="https://github.com/INKmin9"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INKmin9&layout=compact&theme=outrun&hide_border=true" /></a> 
 
+
+<!--snake moving-->
+<img src="https://github.com/bethebestKR/bethebestKR/blob/output/github-snake-dark.svg" width="100%">
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
