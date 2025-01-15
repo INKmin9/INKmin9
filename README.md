@@ -6,7 +6,7 @@
 <br>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/INKmin9?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/INKmin9?pet-id=1" width="800" height="320"/>
 </a>
 
 # 💪Skills
