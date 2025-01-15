@@ -4,7 +4,7 @@
 <br>
 
 ### Front-End Developer
-- front-end developer in Sejong Univ.
+front-end developer in Sejong Univ.
 <br>
 
 <a href="https://github.com/devxb/gitanimals">
