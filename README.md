@@ -8,7 +8,6 @@ front-end developer in Sejong Univ.
 <br>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/INKmin9?pet-id=1" width="800" height="320"/>
   <img src="https://render.gitanimals.org/farms/INKmin9"/>
 </a>
 
