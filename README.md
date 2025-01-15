@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Welcome to Inkwell island!
 <br>
 
@@ -37,3 +39,4 @@
 
 <a href="https://github.com/INKmin9"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=INKmin9&show_icons=true&include_all_commits=true&theme=outrun&hide_border=true" alt="INK's github stats" /></a>
 <a href="https://github.com/INKmin9"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INKmin9&layout=compact&theme=outrun&hide_border=true" /></a> 
+</div>
