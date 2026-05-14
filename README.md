@@ -4,7 +4,7 @@
 <br>
 
 ### Front-End Developer
-front-end developer in Sejong Univ.
+front-end developer in FestiCompany
 <br>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=INKmin9&utm_content=farm">
